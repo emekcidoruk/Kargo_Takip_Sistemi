@@ -1,0 +1,11 @@
+C:\NTP Proje\Kargo_Takip_Sistemi\Kargo_Takip_Sistemi\obj\Debug\Kargo_Takip_Sistemi.csproj.AssemblyReference.cache
+C:\NTP Proje\Kargo_Takip_Sistemi\Kargo_Takip_Sistemi\obj\Debug\Kargo_Takip_Sistemi.Form1.resources
+C:\NTP Proje\Kargo_Takip_Sistemi\Kargo_Takip_Sistemi\obj\Debug\Kargo_Takip_Sistemi.Properties.Resources.resources
+C:\NTP Proje\Kargo_Takip_Sistemi\Kargo_Takip_Sistemi\obj\Debug\Kargo_Takip_Sistemi.csproj.GenerateResource.cache
+C:\NTP Proje\Kargo_Takip_Sistemi\Kargo_Takip_Sistemi\obj\Debug\Kargo_Takip_Sistemi.csproj.CoreCompileInputs.cache
+C:\NTP Proje\Kargo_Takip_Sistemi\Kargo_Takip_Sistemi\bin\Debug\Kargo_Takip_Sistemi.exe.config
+C:\NTP Proje\Kargo_Takip_Sistemi\Kargo_Takip_Sistemi\bin\Debug\Kargo_Takip_Sistemi.exe
+C:\NTP Proje\Kargo_Takip_Sistemi\Kargo_Takip_Sistemi\bin\Debug\Kargo_Takip_Sistemi.pdb
+C:\NTP Proje\Kargo_Takip_Sistemi\Kargo_Takip_Sistemi\obj\Debug\Kargo_Takip_Sistemi.exe
+C:\NTP Proje\Kargo_Takip_Sistemi\Kargo_Takip_Sistemi\obj\Debug\Kargo_Takip_Sistemi.pdb
+C:\NTP Proje\Kargo_Takip_Sistemi\Kargo_Takip_Sistemi\obj\Debug\Kargo_Takip_Sistemi.exe.config
